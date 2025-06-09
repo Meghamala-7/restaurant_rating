@@ -4,8 +4,6 @@
 
 This **Restaurant Rating Prediction App** uses machine learning to predict a restaurant's **aggregate rating** (on a scale of 1 to 5) based on features like location, cuisine, cost, delivery options, and more. Powered by **XGBoost** and deployed with an interactive **Streamlit** interface, it allows users to experiment with different inputs to see how they affect the predicted rating. This is my first task in Cognifyz Technologies as a machine learning Intern.
 
----
-
 # 🚀 Features
 
 - Predict restaurant ratings using a trained XGBoost model
@@ -18,10 +16,7 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
   
 - Input options like cuisine, votes, table booking, delivery, etc.
 
----
-
 # 🧠 Technologies Used
-
 
 # 🧮 Machine Learning
 
@@ -40,8 +35,6 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 ### 🌐 Web Interface
 
 - Streamlit
-
----
 
 # 📁 Folder Structure
 
