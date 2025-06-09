@@ -6,7 +6,7 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - Predict restaurant ratings using a trained XGBoost model
   
@@ -20,10 +20,10 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 
 ---
 
-## 🧠 Technologies Used
+# 🧠 Technologies Used
 
 
-### 🧮 Machine Learning
+# 🧮 Machine Learning
 
 - Python 3.x
   
@@ -43,7 +43,7 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 
 ---
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
 restaurant_rating_app/
 ├── app.py 
