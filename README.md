@@ -40,8 +40,11 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 
 restaurant_rating_app/
 ├── app.py 
+
 ├── Dataset .csv # Dataset used for training and filtering inputs
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 # Commands
