@@ -39,6 +39,7 @@ This **Restaurant Rating Prediction App** uses machine learning to predict a res
 # 📁 Folder Structure
 
 restaurant_rating_app/
+
 ├── app.py 
 
 ├── Dataset .csv # Dataset used for training and filtering inputs
